@@ -1,5 +1,5 @@
 #
-# CS252 - Shell Project
+#  Shell Project
 #
 #Use GNU compiler
 cc= gcc
